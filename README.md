@@ -1,4 +1,4 @@
 # digitalheir.github.io
 Personal Github web page
 
-See https://github.com/digitalheir/java-rechtspraak-library
+See https://digitalheir.github.io/java-rechtspraak-library/
